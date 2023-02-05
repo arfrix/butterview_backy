@@ -1,3 +1,7 @@
+.tmp/
+.cache/
+build/
+data/
 **/.classpath
 **/.dockerignore
 **/.env
